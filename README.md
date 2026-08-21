@@ -1,14 +1,12 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="40%" valign="center" align="center">
-      <img src="https://raw.githubusercontent.com/Escarletx/Escarletx/0e94f85fd05043162b803bea70ca541234b540f6/assets/bocchi.jpg" alt="Bocchi" width="70%" />
+      <img src="assets/bocchi.jpg" alt="Bocchi" width="100%" />
     </td>
   <td width="43%" valign="top">
 
-  ```powershell
-  > gitbash
-  ```
-          
+  <pre><code>> gitbash</code></pre>
+         
   ```yaml
   Escarletx@github
   -------------------------
